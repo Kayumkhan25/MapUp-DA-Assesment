@@ -281,5 +281,6 @@ For each unique (`id_start`, `id_end`) pair, cover a full 24-hour period (from 1
 
 Sample result dataframe:\
  ![Section 2 Question 13](readme_images/section2-q13.png)
-#   M a p U p - D A - A s s e s m e n t  
+#   M a p U p - D A - A s s e s m e n t 
+ 
  
